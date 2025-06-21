@@ -7,7 +7,7 @@
     const questions = [
       {q: "Peut-on recycler un masque chirurgical ?", a: ["Oui, dans la poubelle jaune", "Non, poubelle normale", "Oui, borne spéciale"], r: 1},
       {q: "Que fabrique-t-on avec un masque recyclé ?", a: ["Des matériaux isolants", "Des sacs plastiques", "Du papier"], r: 0},
-      {q: "Combien de masques sont jetes par jour dans le monde?", a: ["1 milliard", "2 milliards", "4,3 milliards"], r: 3}
+      {q: "Combien de masques sont jetes par jour dans le monde?", a: ["1 milliard", "2 milliards", "4,3 milliards"], r: 0}
     ];
 
     function displayRandomQuestion() {
